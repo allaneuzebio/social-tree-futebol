@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-top: 50px;
+    margin-top: 70px;
     font-size: 0.8em;
     
 }
@@ -42,6 +42,7 @@ ul {
 }
 
 .sites > li {
+    color: #BB99DD;
     list-style: none;
     text-align: center;
     margin-top: 15px;
@@ -49,6 +50,7 @@ ul {
     border-radius: 3px;
     padding: 10px;
     font-weight: 600;
+    
 }
 
 a {
@@ -58,7 +60,7 @@ a {
 .redes {
     display: flex;
     width: 300px;
-    margin: 40px auto
+    margin: 50px auto
     
 }
 

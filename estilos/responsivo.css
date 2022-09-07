@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px)  {
+
+    body {
+
+    }
+
+    .imagem {
+        margin-top: 200px;
+    }
+
+    .imagem > img {
+        margin-bottom: 25px;
+    }
+
+    .links {
+        width: 450px;
+    }
+
+    ul {
+        margin-top: 40px;
+    }
+
+    .sites > li {
+        margin-top: 25px;
+        padding: 15px;
+    }
+    
+}
