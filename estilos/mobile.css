@@ -42,7 +42,6 @@ ul {
 }
 
 .sites > li {
-    color: #BB99DD;
     list-style: none;
     text-align: center;
     margin-top: 15px;
@@ -55,6 +54,8 @@ ul {
 
 a {
     text-decoration: none;
+    color: inherit;
+    
 }
 
 .redes {
